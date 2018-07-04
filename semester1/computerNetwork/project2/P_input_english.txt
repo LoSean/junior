@@ -1,0 +1,6 @@
+<ID>LoSean</ID><PASS>Iphone4S@</PASS><BOARD>test</BOARD><P>English News Test</P>
+<CONTENT>(CNN) -- Energized by President-elect Donald Trump's victory,
+Europe's populist movements are on the cusp of sweeping far-right, nationalist
+and euroskeptic parties into power across the continent in a series of
+upcomming elections.</CONTENT>
+<EXIT>
